@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">JUST JAVA</string>
+    <string name="quantity" translatable="false">Quantity</string>
+    <string name="_0">0</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="phone_no" translatable="false">Phone no.</string>
+    <string name="whipped_cream" translatable="false">Whipped Cream</string>
+    <string name="toppings" translatable="false">toppings</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="place_your_order" translatable="false"><![CDATA[Place your order >>>]]></string>
+    <string name="no_order_selected" translatable="false">NO ORDER SELECTED!</string>
+    <string name="order_summary_textView" translatable="false">Order Summary</string>
+
+    <string name="title_activity_fullscreen_activitywc">FullscreenActivitywc</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="OK">dialog_OK</string>
+    <string name="cancel">dialog_cancel</string>
+    <string name="pick_toppings">coffee_toppings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_your_location">Get Your Location</string>
+    <string name="choose_toppings">Choose Toppings  >>></string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_summarybutton"><![CDATA[Order Summary >>>]]></string>
+    <string name="choco_coffee">choco coffee</string>
+</resources>
